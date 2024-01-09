@@ -1,0 +1,3 @@
+section .data
+	userMsg1 db "Dame el numero: ", 0xA, 0xD
+	
